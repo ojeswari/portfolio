@@ -1,0 +1,53 @@
+.pin{
+    
+    background-color: rgba(0, 0, 0, 0.756);
+    height: 50px;
+    align-items: center;
+    padding-top: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+}
+.box{
+    
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.a{
+    padding: 10px;
+    height: auto;
+    color: white; 
+}
+.gf{
+    background-image: url(https://thumbs.dreamstime.com/b/portrait-young-asian-man-wearing-jacket-laugh-funny-face-isolated-over-white-background-men-laugh-funny-faces-123977864.jpg);
+    background-repeat: no-repeat;
+}
+.f{
+    text-align: right;
+    padding-right: 120px;
+    padding-top: 100px;
+}
+.j{
+    padding-left: 570px;
+    
+}
+.k{
+    padding-left: 600px;
+    
+}
+.t{
+    padding-left: 570px;
+    
+}
+.v{
+    padding-left: 600px;
+}
+.g{
+    padding-bottom: 500px;
+}
+
+
+
+
